@@ -1,0 +1,8 @@
+Agregar el código necesario para poder realizar la consulta de clientes. Se deberá realizar los componentes de react y consumir el backend desarrollado en el punto anterior. 	
+En el componente Cliente, incluir la interface de búsqueda con el campo a filtrar (“ApellidoYNombre”) y el botón buscar.
+Deberá cumplir los siguientes requisitos:
+Consumir vía axios el endpoint del back
+Utilizar para el formulario de búsqueda la librería react-hook-form
+En el componente ClienteListado incluir una tabla de html para mostrar los resultados de la búsqueda, incluya en la misma todos los registro y sus campos, (no se pide paginación)
+
+Agregar al componente menú de la aplicación, el acceso al nuevo componente.

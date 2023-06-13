@@ -31,6 +31,11 @@ function Menu() {
                 Articulos
               </NavLink>
             </li>
+            <li>
+              <NavLink className="nav-link" to="/clientes">
+                Clientes
+              </NavLink>
+            </li>
           </ul>
         </div>
       </div>
@@ -38,4 +43,4 @@ function Menu() {
   );
 }
 
-export {Menu};
+export { Menu };
